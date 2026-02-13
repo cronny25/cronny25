@@ -1,6 +1,4 @@
-# Fabian Enrique
-
-Senior Full Stack Engineer | Cloud-Native Systems | Scalable Architecture
+# Senior Full Stack Engineer | Cloud-Native Systems | Scalable Architecture
 
 Senior Software Engineer with 10+ years of experience designing and delivering high-performance distributed systems across FinTech, Healthcare, Insurance, and SaaS platforms.
 
@@ -92,10 +90,3 @@ PostgreSQL, MongoDB, Redis, Snowflake, Kafka
 
 ---
 
-## 📫 Contact
-
-fabian.enrique528@gmail.com  
-Cesar, Colombia  
-Open to senior backend / full-stack / cloud architecture roles
-
----
